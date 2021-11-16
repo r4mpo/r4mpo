@@ -1,4 +1,4 @@
-## Desenvolvedor de Sistemas Júnior, aluno da Universidade Paulista (Unip), 20 anos.
+## Junior PHP Developer
 <div align="center">
   <a href="https://github.com/r4mpo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r4mpo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

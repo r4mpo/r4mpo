@@ -1,6 +1,6 @@
 ## Olá, eu sou o Erick - Desenvolvedor Júnior Back-End :D
 
-- 💾 Estudando PHP, MySQL e HTML
+- 💾 Estudando PHP
 - 📚 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://unip.br/">Unip - Universidade Paulista</a>
 - 💼 Estou à procura da minha primeira experiência profissional, seja como freelancer, estágiario ou como júnior
 <h3> :rocket: &nbsp;My Skills </h3>

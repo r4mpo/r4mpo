@@ -1,8 +1,8 @@
-## Olá, eu sou o Erick - Desenvolvedor Júnior Back-End :D
+## 👋 Olá, eu sou o Erick (@r4mpo) xD
 
-- 💾 Estudando PHP
-- 📚 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://unip.br/">Unip - Universidade Paulista</a>
-- 💼 Estou à procura da minha primeira experiência profissional, seja como freelancer, estágiario ou como júnior
+- Estudando PHP (Laravel) e Banco de Dados MySQL 💾
+- Cursando **Análise e Desenvolvimento de Sistemas** na <a href="http://unip.br/">Unip - Universidade Paulista</a> 📚
+- Estou à procura da minha primeira experiência profissional, seja como estágiario ou como júnior 💼
 <h3> :rocket: &nbsp;My Skills </h3>
 <div align="center">
   <a href="https://github.com/r4mpo">
@@ -13,9 +13,12 @@
     <img align="center" alt="Erick-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Erick-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
+    <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
   
-  ##
+ <h3> 🗂️ &nbsp;Contatos </h3> 
+
+[![Linkedin: Erick (@r4mpo)](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-agostinho-684563227/)](https://www.linkedin.com/in/erick-agostinho-684563227/)
  
 <div> 
   

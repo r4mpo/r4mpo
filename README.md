@@ -2,7 +2,7 @@
 
 - Estudando PHP (Laravel) e Banco de Dados MySQL 💾
 - Cursando **Análise e Desenvolvimento de Sistemas** na <a href="http://unip.br/">Unip - Universidade Paulista</a> 📚
-- Estou à procura da minha primeira experiência profissional, seja como estágiario ou como júnior 💼
+- Estou à procura da minha primeira experiência profissional, seja como estagiário ou como júnior 💼
 <h3> :rocket: &nbsp;My Skills </h3>
 <div align="center">
   <a href="https://github.com/r4mpo">

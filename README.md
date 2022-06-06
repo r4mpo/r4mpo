@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Erick (@r4mpo) xD
 
-- Estudando PHP (Laravel) e Banco de Dados MySQL 💾
+- Estudando desenvolvimento web full stack 💾
 - Cursando **Análise e Desenvolvimento de Sistemas** na <a href="http://unip.br/">Unip - Universidade Paulista</a> 📚
 <h3> :rocket: &nbsp;My Skills </h3>
 <div align="center">

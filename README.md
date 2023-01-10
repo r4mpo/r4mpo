@@ -12,4 +12,4 @@
     <img align="center" alt="Erick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div><br><br>
 
-Estudante de Análise e Desenvolvimento de Sistemas, matriculado na Universidade Paulista (Unip). Graduado no curso técnico de Desenvolvimento de Sistemas, ministrado pela ETEC Antônio de Pádua Cardoso (Centro Paula Souza). Atualmente adquirindo conhecimento e experiência em PHP (Laravel), MySQL, HTML, CSS, JavaScript e WordPress, atuando como estagiário de desenvolvimento web.
+Estudante de Análise e Desenvolvimento de Sistemas, matriculado na Universidade Paulista (Unip). Graduado no curso técnico de Desenvolvimento de Sistemas, ministrado pela ETEC Antônio de Pádua Cardoso (Centro Paula Souza). Atualmente adquirindo conhecimento e experiência em PHP (Laravel), MySQL, HTML, CSS, JavaScript e WordPress, atuando como programador trainee de desenvolvimento web.

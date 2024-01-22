@@ -11,7 +11,7 @@
     <img align="center" alt="Erick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div><br><br>
 
-Profissional da área de Desenvolvimento Web Full Stack, com mais de um ano de experiência sólida na indústria de tecnologia. Possuo expertise em tecnologias back-end, com ênfase no framework Laravel para PHP, bem como experiência em CMS Wordpress e Yii Framework. Além disso, sou habilidoso com ferramentas voltadas ao lado do cliente, incluindo HTML/CSS com conhecimento em Bootstrap e Materialize, e JavaScript, onde utilizo tanto a abordagem Vanilla quanto bibliotecas como JQuery, Vue.JS e Axios. Possuo experiência em trabalhar com diversos SGBDs, tais como SQL Server, HeidiSQL e MySQL Workbench.
+Profissional da área de Desenvolvimento Web Full Stack, com dois anos de experiência sólida na indústria de tecnologia. Possuo expertise em tecnologias back-end, com ênfase no framework Laravel para PHP, bem como experiência em CMS Wordpress e Yii Framework. Além disso, sou habilidoso com ferramentas voltadas ao lado do cliente, incluindo HTML/CSS com conhecimento em Bootstrap e Materialize, e JavaScript, onde utilizo tanto a abordagem Vanilla quanto bibliotecas como JQuery, Vue.JS e Axios. Possuo experiência em trabalhar com diversos SGBDs, tais como SQL Server, HeidiSQL e MySQL Workbench.
 
 Sou graduado no curso técnico de Desenvolvimento de Sistemas pela ETEC Antônio de Pádua Cardoso (Centro Paula Souza) e tenho formação em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (Unip), concluindo o curso recentemente.
 

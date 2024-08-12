@@ -10,4 +10,4 @@
     <img align="center" alt="Erick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div><br><br>
 
-Programador PHP Jr. dedicado e proativo, com habilidades sólidas em desenvolvimento web. Experiente em construir e manter aplicações PHP, demonstrando proficiência em HTML, CSS e JavaScript. Comprometido com a excelência técnica e o aprendizado contínuo, buscando oportunidades para contribuir efetivamente em equipes dinâmicas e projetos inovadores.
+Experiência em desenvolvimento de software com expertise em PHP, MySQL, JavaScript e WordPress. Competente na criação de websites e soluções backend, utilizando ferramentas como PHPStorm, Docker e Git. Experiência em customização de interfaces (HTML5, CSS3, Bootstrap, Tailwind), criação de sistemas e APIs (Laravel) e administração de bancos de dados. Atuou em ambientes remotos e presenciais, com habilidades em otimização de SPAs, e programação de plugins. Experiência adicional em tarefas administrativas e atendimento ao cliente, com forte compromisso com a melhoria contínua e trabalho em equipe.

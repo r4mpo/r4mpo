@@ -10,4 +10,5 @@
     <img align="center" alt="Erick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div><br><br>
 
-Experiência em desenvolvimento de software com expertise em PHP, MySQL, JavaScript e WordPress. Competente na criação de websites e soluções backend, utilizando ferramentas como PHPStorm, Docker e Git. Experiência em customização de interfaces (HTML5, CSS3, Bootstrap, Tailwind), criação de sistemas e APIs (Laravel) e administração de bancos de dados. Atuou em ambientes remotos e presenciais, com habilidades em otimização de SPAs, e programação de plugins.
+Sou um profissional versátil com experiência abrangente em desenvolvimento de software. Atualmente, trabalho como Analista e Programador, em projetos de desenvolvimento e manutenção de sistemas. Minha trajetória inclui análise de sistemas, criação de soluções 
+digitais e gestão de processos administrativos e de atendimento ao cliente. Com uma forte base em trabalho em equipe e resolução de problemas, busco constantemente aplicar minhas habilidades para contribuir de maneira significativa em novos desafios e projetos. Minhas certificações e experiências diversas refletem meu compromisso com a excelência e a evolução contínua no campo da tecnologia e gestão.

@@ -10,5 +10,5 @@
     <img align="center" alt="Erick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div><br><br>
 
-Sou um profissional versátil com experiência abrangente em desenvolvimento de software. Atualmente, trabalho como Analista e Programador, em projetos de desenvolvimento e manutenção de sistemas. Minha trajetória inclui análise de sistemas, criação de soluções 
-digitais e gestão de processos administrativos e de atendimento ao cliente. Com uma forte base em trabalho em equipe e resolução de problemas, busco constantemente aplicar minhas habilidades para contribuir de maneira significativa em novos desafios e projetos. Minhas certificações e experiências diversas refletem meu compromisso com a excelência e a evolução contínua no campo da tecnologia e gestão.
+Sou um desenvolvedor PHP com experiência em sistemas de desenvolvimento ágeis, atuando como Analista e Programador PHP no Grupo Criar. Tenho sólida experiência com frameworks como CakePHP, CodeIgniter e Laravel, além de desenvolvimento e manutenção de APIs, integrações com bancos de dados MySQL e implementação de autenticação e manipulação de dados.
+Atuei também na criação de sistemas de controle de estoque, personalização de interfaces responsivas e integração de soluções com WordPress e Laravel. Com certificações em PHP, TDD, Docker, Laravel e Vue.js, busco constantemente aplicar minhas habilidades em novos projetos, focando na entrega de soluções eficientes e inovadoras.

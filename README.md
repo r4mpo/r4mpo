@@ -10,4 +10,8 @@
     <img align="center" alt="Erick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div><br><br>
 
-Sou desenvolvedor PHP com experiência em ambientes ágeis, atuando como Analista e Programador PHP. Tenho ampla experiência com frameworks como CakePHP, CodeIgniter e Laravel, além de desenvolvimento e manutenção de APIs e integrações com MySQL. Participei de projetos voltados para controle de estoque, interfaces responsivas e integração com WordPress e Laravel. Possuo certificações em PHP, TDD, Docker, Laravel e Vue.js, sempre buscando aprimorar minhas habilidades e contribuir para soluções inovadoras e eficientes.
+Sou um Desenvolvedor Full Stack Pleno com ampla experiência em PHP e Laravel, especializado na criação de aplicações web robustas, escaláveis e seguras. Tenho profundo conhecimento em princípios SOLID, arquitetura MVC e padrões de design, garantindo código limpo, reutilizável e de fácil manutenção.
+
+Atuo no desenvolvimento de APIs RESTful bem documentadas com Postman e Swagger, integração com serviços externos e manipulação eficiente de bancos de dados relacionais, com foco em MySQL e PostgreSQL. Implemento autenticação segura utilizando JWT, Breeze, Spatie e outras estratégias de segurança, além de aplicar otimizações para melhorar a performance e escalabilidade das aplicações.
+
+No frontend, domino Vue.js para construção de interfaces dinâmicas e interativas, além de utilizar Bootstrap e Datatable para criar layouts responsivos e intuitivos. Tenho experiência com versionamento de código utilizando Git/GitHub, pipelines de CI/CD e práticas de DevOps para automação e deploy contínuo. Estou acostumado a trabalhar em equipes ágeis utilizando metodologias como Scrum e Kanban.

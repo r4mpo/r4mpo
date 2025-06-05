@@ -9,7 +9,7 @@
 - 🌱 Estudando atualmente **Laravel, CodeIgniter, Slim, Cake, WordPress, JavaScript, jQuery, Vue.JS, MySQL, HTML5, CSS3, Bootstrap**
 - 🚀 Realizei projetos pessoais de sistemas personalizados voltados para gestão: [PeoplePro](https://github.com/r4mpo/people-pro)
 - 🚀 Destaco também o aprendizado em APIs com PHP: [MyJobs](https://github.com/r4mpo/my-jobs)
-- 👨‍💻 Todos meus projetos disponíveis em meu perfil do github [@r4mpo](github.com/r4mpo)
+- 👨‍💻 Todos meus projetos disponíveis em meu perfil do github [@r4mpo](https://github.com/r4mpo)
 - 📝 Constantemente faço publicações em meu LinkedIn [Erick Agostinho](https://www.linkedin.com/in/erick-agostinho-684563227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 💬 Pergunte sobre **PHP, SOLID, Web**
 - 📫 Entre em contato **erickagostinhodesenvolvedor@gmail.com**

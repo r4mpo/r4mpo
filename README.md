@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Erick Agostinho 👋</h1>
+<h1 align="center">Olá, eu sou o Erick Tomasini 👋</h1>
 <p align="center">
   <strong>Desenvolvedor PHP Full Stack Pleno 🐘</strong><br>
   <em>Apaixonado por arquitetura limpa, SOLID e ecossistema Laravel.</em>
@@ -12,11 +12,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=r4mpo&theme=onedark&column=7" alt="trophies" />
-</div>
-
 ---
 
 ### 🚀 Sobre Mim

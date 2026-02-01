@@ -1,83 +1,72 @@
-<h1 align="center">Olá, beleza? 👋 Meu nome é Erick Agostinho</h1>
-<h3 align="center">Desenvolvedor PHP Full Stack Pleno 🐘</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4mpo&label=Profile%20views&color=0e75b6&style=flat" alt="r4mpo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4mpo" alt="r4mpo" /></a> </p>
-
-- 🚀 Sigo trabalhando na criação de uma base perfeita para projetos com Laravel: [Perfect Laravel Base](https://github.com/r4mpo/perfect-laravel-base)
-- 🌱 Estudando atualmente **Laravel, CodeIgniter, Slim, Cake, WordPress, JavaScript, jQuery, Vue.JS, MySQL, HTML5, CSS3, Bootstrap**
-- 🚀 Realizei projetos pessoais de sistemas personalizados voltados para gestão: [PeoplePro](https://github.com/r4mpo/people-pro)
-- 🚀 Destaco também o aprendizado em APIs com PHP: [MyJobs](https://github.com/r4mpo/my-jobs)
-- 👨‍💻 Todos meus projetos disponíveis em meu perfil do github [@r4mpo](https://github.com/r4mpo)
-- 📝 Constantemente faço publicações em meu LinkedIn [Erick Agostinho](https://www.linkedin.com/in/erick-agostinho-684563227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 💬 Pergunte sobre **PHP, SOLID, Web**
-- 📫 Entre em contato **erickagostinhodesenvolvedor@gmail.com**
-- 📄 Leia sobre minhas experiências através do [LinkedIn](https://www.linkedin.com/in/erick-agostinho-684563227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- ⚡ Curiosidades **Sou apaixonado por Resident Evil 4, meu super-herói favorito é o Homem-Aranha, trabalho com PHP desde 2022, em 2025 me tornei entusiasta de C++ 💫**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/erick-agostinho-684563227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erick-agostinho-684563227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<h1 align="center">Olá, eu sou o Erick Agostinho 👋</h1>
+<p align="center">
+  <strong>Desenvolvedor PHP Full Stack Pleno 🐘</strong><br>
+  <em>Apaixonado por arquitetura limpa, SOLID e ecossistema Laravel.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/erick-agostinho-684563227">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="mailto:erickagostinhodesenvolvedor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4mpo&show_icons=true&locale=en&layout=compact" alt="r4mpo" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=r4mpo&theme=onedark&column=7" alt="trophies" />
+</div>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=r4mpo&show_icons=true&locale=en" alt="r4mpo" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r4mpo&" alt="r4mpo" /></p>
+### 🚀 Sobre Mim
+
+- 👨‍💻 Atuando com **PHP desde 2022**, focado em entregar soluções escaláveis e bem estruturadas.
+- 🛠️ Atualmente construindo a [Perfect Laravel Base](https://github.com/r4mpo/perfect-laravel-base), um boilerplate opinativo para alta produtividade.
+- 🎓 Estudando a fundo **Arquitetura de Software**, APIs RESTful e agora explorando o mundo de **C++**.
+- 💬 Vamos conversar sobre **Laravel, Vue.js, SOLID e Clean Code**.
+- ⚡ Curiosidade: Grande fã de Resident Evil 4 e do Homem-Aranha.
+
+---
+
+### 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| [**PeoplePro**](https://github.com/r4mpo/people-pro) | Sistema personalizado para gestão empresarial. | Laravel, MySQL, Vue.js |
+| [**MyJobs**](https://github.com/r4mpo/my-jobs) | Plataforma de busca de vagas focada em performance de API. | PHP, REST API, Slim/Cake |
+| [**ServiceHub**](https://github.com/r4mpo/servicehub) | Gestão de tickets com filas assíncronas e Docker. | Laravel Sail, Redis, Inertia.js |
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <br>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4mpo&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=r4mpo&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r4mpo&theme=vision-friendly-dark" alt="Streak" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=r4mpo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" /> 
+</p>

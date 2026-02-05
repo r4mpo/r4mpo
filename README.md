@@ -28,8 +28,8 @@
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
-| [**PeoplePro**](https://github.com/r4mpo/people-pro) | Sistema personalizado para gestão empresarial. | Laravel, MySQL, Vue.js |
-| [**MyJobs**](https://github.com/r4mpo/my-jobs) | Plataforma de busca de vagas focada em performance de API. | PHP, REST API, Slim/Cake |
+| [**PeoplePro**](https://github.com/r4mpo/people-pro) | Sistema personalizado para gestão empresarial. | Laravel, MySQL |
+| [**MyJobs**](https://github.com/r4mpo/my-jobs) | Plataforma de busca de vagas focada em performance de API. | PHP, REST API, Vue.JS |
 | [**ServiceHub**](https://github.com/r4mpo/servicehub) | Gestão de tickets com filas assíncronas e Docker. | Laravel Sail, Redis, Inertia.js |
 
 ---

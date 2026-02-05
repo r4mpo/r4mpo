@@ -50,18 +50,3 @@
 </p>
 
 ---
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4mpo&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Langs" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=r4mpo&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r4mpo&theme=vision-friendly-dark" alt="Streak" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=r4mpo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" /> 
-</p>

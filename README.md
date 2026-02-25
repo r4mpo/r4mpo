@@ -175,14 +175,11 @@ ETEC Antônio de Pádua Cardoso (01/2020 - 06/2021)
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=r4mpo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4mpo&layout=compact&theme=transparent&hide_progress=false" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r4mpo&theme=react-dark" />
 
 ---
 
-## 🎯 Objetivo Profissional
+### 🎯 Objetivo Profissional
 
 Atuar em projetos desafiadores que envolvam:
 

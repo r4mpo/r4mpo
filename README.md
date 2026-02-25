@@ -44,7 +44,7 @@ Atualmente atuando como **Desenvolvedor Full Stack Sênior na Logiks Tecnologia*
 
 ## 💼 Experiência Profissional
 
-### 🏢 Logiks Tecnologia (2026 - Atual)
+### 🏢 Logiks Tecnologia (02/2026 - Atual)
 
 <p align="left">
   <img src="https://logiks.com.br/wp-content/uploads/2024/02/Logomarca-Logiks-1.png" height="60"/>
@@ -61,10 +61,10 @@ Atualmente atuando como **Desenvolvedor Full Stack Sênior na Logiks Tecnologia*
 
 ---
 
-### 🏢 Grupo CRIAR (2023 - 2026)
+### 🏢 Grupo CRIAR (08/2023 - 01/2026)
 
 <p align="left">
-  <img src="https://grupocriar.com.br/images/site/logo/logo-criar1.svg" height="60"/>
+  <img src="https://grupocriar.com.br/images/site/logo/mandala.png" height="60"/>
 </p>
 
 **Analista Programador PHP**
@@ -79,7 +79,7 @@ Atualmente atuando como **Desenvolvedor Full Stack Sênior na Logiks Tecnologia*
 
 ---
 
-### 🏢 ELECTRA Informática (2022 - 2023)
+### 🏢 ELECTRA Informática (07/2022 - 08/2023)
 
 <p align="left">
   <img src="https://electra.com.br/wp-content/uploads/2022/01/Logo_Electra-1.png" height="60"/>
@@ -189,8 +189,8 @@ Atuar em projetos desafiadores que envolvam:
 
 ## ⚡ Curiosidades
 
-🎮 Fã de Resident Evil 4  
-🕷 Admirador do Homem-Aranha  
+🎮 Fã de carteirinha de Resident Evil 4  
+🕷 Hiperfoco nos filmes do Homem-Aranha  
 📚 Estudioso contínuo de arquitetura e engenharia  
 
 ---

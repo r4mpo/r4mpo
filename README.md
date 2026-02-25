@@ -110,36 +110,44 @@ Trabalho com:
 - Microsserviços orientados a domínio
 
 ---
-
 ## 🛠 Stack Principal
 
-### Backend
-- PHP
-- Laravel
-- CakePHP
-- CodeIgniter
-- Slim
-- MySQL
-- PostgreSQL
-- SQL Server
+### 🧠 Backend
 
-### Frontend
-- Vue.js
-- Inertia.js
-- JavaScript
-- jQuery
-- Bootstrap
-- TailwindCSS
-- Material UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,cpp" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
 
-### DevOps
-- Docker
-- Azure DevOps
-- GitHub
-- CI/CD
-- Linux
-- Scrum & Kanban
+---
 
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="45"/>
+</p>
+
+---
+
+### ⚙️ DevOps & Infra
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,azure" />
+</p>
+
+---
+
+### 🧩 Arquitetura & Padrões
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SOLID-Architecture-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-Design-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-Distributed-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-Standards-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-Automation-red?style=for-the-badge"/>
+</p>
 ---
 
 ## 🎓 Formação Acadêmica
@@ -160,17 +168,15 @@ ETEC Antônio de Pádua Cardoso (2021)
 | Projeto | Descrição | Stack |
 |---------|-----------|--------|
 | Perfect Laravel Base | Boilerplate arquitetural para projetos robustos | Laravel, SOLID |
-| PeoplePro | Gestão empresarial | Laravel, MySQL |
-| MyJobs | Plataforma de vagas | PHP, Vue |
-| ServiceHub | Sistema de tickets | Laravel, Redis, Docker |
+| ServiceHub | Sistema de tickets, com envio de e-mails e filas assíncronas | Laravel, Redis, Docker |
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=r4mpo&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4mpo&layout=compact&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=r4mpo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4mpo&layout=compact&theme=transparent&hide_progress=false" />
 </p>
 
 ---

@@ -1,7 +1,7 @@
-<h1 align="center">Erick Isaías de Sousa Agostinho 👨‍💻</h1>
+<h1 align="center">Erick Isaías Tomasini 👨‍💻</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack Pleno | Especialista em PHP & Laravel</strong><br>
+  <strong>Desenvolvedor Full Stack Sênior | Especialista em PHP & Laravel</strong><br>
   Arquitetura limpa • SOLID • APIs REST • Microsserviços • DevOps
 </p>
 
@@ -47,7 +47,7 @@ Atualmente atuando como **Desenvolvedor Full Stack Sênior na Logiks Tecnologia*
 ### 🏢 Logiks Tecnologia (2026 - Atual)
 
 <p align="left">
-  <img src="https://www.instagram.com/logiks_ti/" height="60"/>
+  <img src="https://logiks.com.br/wp-content/uploads/2024/02/Logomarca-Logiks-1.png" height="60"/>
 </p>
 
 **Desenvolvedor Full Stack Sênior**

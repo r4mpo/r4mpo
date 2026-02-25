@@ -148,18 +148,19 @@ Trabalho com:
   <img src="https://img.shields.io/badge/REST_API-Standards-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CI/CD-Automation-red?style=for-the-badge"/>
 </p>
+
 ---
 
-## 🎓 Formação Acadêmica
+### 🎓 Formação Acadêmica
 
 🎓 Pós-graduação em Desenvolvimento Web  
-Faculdade Focus (2025)
+Faculdade Focus (06/2025 - 10/2025)
 
 🎓 Análise e Desenvolvimento de Sistemas  
-Universidade Paulista - UNIP (2023)
+Universidade Paulista - UNIP (06/2021 - 06/2023)
 
 🎓 Técnico em Desenvolvimento de Sistemas  
-ETEC Antônio de Pádua Cardoso (2021)
+ETEC Antônio de Pádua Cardoso (01/2020 - 06/2021)
 
 ---
 

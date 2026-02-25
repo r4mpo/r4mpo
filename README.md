@@ -64,7 +64,7 @@ Atualmente atuando como **Desenvolvedor Full Stack Sênior na Logiks Tecnologia*
 ### 🏢 Grupo CRIAR (2023 - 2026)
 
 <p align="left">
-  <img src="https://br.linkedin.com/company/grupocriar" height="60"/>
+  <img src="https://grupocriar.com.br/images/site/logo/logo-criar1.svg" height="60"/>
 </p>
 
 **Analista Programador PHP**

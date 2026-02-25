@@ -1,52 +1,198 @@
-<h1 align="center">Olá, eu sou o Erick Tomasini 👋</h1>
+<h1 align="center">Erick Isaías de Sousa Agostinho 👨‍💻</h1>
+
 <p align="center">
-  <strong>Desenvolvedor PHP Full Stack Pleno 🐘</strong><br>
-  <em>Apaixonado por arquitetura limpa, SOLID e ecossistema Laravel.</em>
+  <strong>Desenvolvedor Full Stack Pleno | Especialista em PHP & Laravel</strong><br>
+  Arquitetura limpa • SOLID • APIs REST • Microsserviços • DevOps
 </p>
 
 <p align="center">
+  <a href="https://github.com/r4mpo">
+    <img src="https://img.shields.io/github/followers/r4mpo?label=GitHub&style=for-the-badge" />
+  </a>
   <a href="https://www.linkedin.com/in/erick-agostinho-684563227">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:erickagostinhodesenvolvedor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
-
-### 🚀 Sobre Mim
-
-- 👨‍💻 Atuando com **PHP desde 2022**, focado em entregar soluções escaláveis e bem estruturadas.
-- 🛠️ Atualmente construindo a [Perfect Laravel Base](https://github.com/r4mpo/perfect-laravel-base), um boilerplate opinativo para alta produtividade.
-- 🎓 Estudando a fundo **Arquitetura de Software**, APIs RESTful e agora explorando o mundo de **C++**.
-- 💬 Vamos conversar sobre **Laravel, Vue.js, SOLID e Clean Code**.
-- ⚡ Curiosidade: Grande fã de Resident Evil 4 e do Homem-Aranha.
 
 ---
 
-### 📂 Projetos em Destaque
+## 🚀 Sobre Mim
 
-| Projeto | Descrição | Tech Stack |
-| :--- | :--- | :--- |
-| [**PeoplePro**](https://github.com/r4mpo/people-pro) | Sistema personalizado para gestão empresarial. | Laravel, MySQL |
-| [**MyJobs**](https://github.com/r4mpo/my-jobs) | Plataforma de busca de vagas focada em performance de API. | PHP, REST API, Vue.JS |
-| [**ServiceHub**](https://github.com/r4mpo/servicehub) | Gestão de tickets com filas assíncronas e Docker. | Laravel Sail, Redis, Inertia.js |
+Sou Desenvolvedor Full Stack com forte atuação em **PHP 7.4+ e Laravel 8/9**, focado em construir aplicações:
+
+- Escaláveis  
+- Seguras  
+- Performáticas  
+- Arquiteturalmente organizadas  
+
+Tenho domínio sólido de:
+
+✔ SOLID  
+✔ Clean Architecture  
+✔ Design Patterns  
+✔ MVC  
+✔ Versionamento de APIs  
+✔ Microsserviços  
+✔ Docker & CI/CD  
+
+Atualmente atuando como **Desenvolvedor Full Stack Sênior na Logiks Tecnologia**, trabalhando em sustentação e evolução de sistemas de grande porte.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 💼 Experiência Profissional
+
+### 🏢 Logiks Tecnologia (2026 - Atual)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <br>
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://www.instagram.com/logiks_ti/" height="60"/>
+</p>
+
+**Desenvolvedor Full Stack Sênior**
+
+- Sustentação do projeto FIEP – Emprega Indústria
+- Refatoração e otimização de código legado
+- Docker + Azure (build e deploy de imagens)
+- Azure DevOps (pipelines e versionamento)
+- SQL Server tuning e manutenção
+- Atendimento técnico e alinhamento com cliente
+
+---
+
+### 🏢 Grupo CRIAR (2023 - 2026)
+
+<p align="left">
+  <img src="https://br.linkedin.com/company/grupocriar" height="60"/>
+</p>
+
+**Analista Programador PHP**
+
+- Desenvolvimento com Laravel, CakePHP, CodeIgniter e Slim
+- Integrações complexas com APIs do DETRAN
+- Sistema de exame teórico eletrônico (alta escala)
+- Criação de procedures e otimização de queries MySQL
+- Projeto Agritech (e-SILOBAG) com microsserviços + IoT
+- Processamento de telemetria via satélite
+- Dashboards com indicadores estratégicos (KPIs)
+
+---
+
+### 🏢 ELECTRA Informática (2022 - 2023)
+
+<p align="left">
+  <img src="https://electra.com.br/wp-content/uploads/2022/01/Logo_Electra-1.png" height="60"/>
+</p>
+
+**Programador Trainee & Estagiário**
+
+- Desenvolvimento de sistemas monolíticos e microsserviços
+- Sistema de Controle de Doações
+- Integração com gateways de pagamento
+- WordPress + WooCommerce
+- SPAs e APIs REST
+
+---
+
+## 🧠 Arquitetura & Engenharia
+
+Trabalho com:
+
+- APIs RESTful padronizadas
+- Versionamento (/v1, /v2)
+- Response Pattern consistente
+- JWT + Breeze + Spatie Permissions
+- Dockerização completa de ambientes
+- Git Flow
+- CI/CD automatizado
+- Deploy em Azure
+- Microsserviços orientados a domínio
+
+---
+
+## 🛠 Stack Principal
+
+### Backend
+- PHP
+- Laravel
+- CakePHP
+- CodeIgniter
+- Slim
+- MySQL
+- PostgreSQL
+- SQL Server
+
+### Frontend
+- Vue.js
+- Inertia.js
+- JavaScript
+- jQuery
+- Bootstrap
+- TailwindCSS
+- Material UI
+
+### DevOps
+- Docker
+- Azure DevOps
+- GitHub
+- CI/CD
+- Linux
+- Scrum & Kanban
+
+---
+
+## 🎓 Formação Acadêmica
+
+🎓 Pós-graduação em Desenvolvimento Web  
+Faculdade Focus (2025)
+
+🎓 Análise e Desenvolvimento de Sistemas  
+Universidade Paulista - UNIP (2023)
+
+🎓 Técnico em Desenvolvimento de Sistemas  
+ETEC Antônio de Pádua Cardoso (2021)
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|--------|
+| Perfect Laravel Base | Boilerplate arquitetural para projetos robustos | Laravel, SOLID |
+| PeoplePro | Gestão empresarial | Laravel, MySQL |
+| MyJobs | Plataforma de vagas | PHP, Vue |
+| ServiceHub | Sistema de tickets | Laravel, Redis, Docker |
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=r4mpo&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4mpo&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
+
+## 🎯 Objetivo Profissional
+
+Atuar em projetos desafiadores que envolvam:
+
+- Arquitetura escalável
+- Alta performance
+- Sistemas distribuídos
+- Engenharia de software aplicada
+- Liderança técnica futura
+
+---
+
+## ⚡ Curiosidades
+
+🎮 Fã de Resident Evil 4  
+🕷 Admirador do Homem-Aranha  
+📚 Estudioso contínuo de arquitetura e engenharia  
+
+---
+
+<h3 align="center">🚀 Construindo software de forma profissional, estruturada e escalável.</h3>

@@ -47,7 +47,7 @@ Atualmente atuando como **Desenvolvedor Full Stack Sênior na Logiks Tecnologia*
 ### 🏢 Fiep - Federação das Indústrias do Estado do Paraná (02/2026 - Atual)
 
 <p align="left">
-  <img src="https://br.linkedin.com/company/fiep](https://novo.fiepr.org.br/documents/5416920/5437640/img-default-open-graphic-fiep.png/7347a3c7-5276-2e66-33d5-9b8048d973c0?version=3.0&t=1723817705572&imagePreview=1" height="60"/>
+  <img src="https://d2dkrr6zm8btg4.cloudfront.net/user_upload_files/df68b284ced035aa4c5d4f430bd1441e1a37d04dc7bda1505fec0f08e489a57f/logo-fiep-v2.png" height="60"/>
 </p>
 
 **Desenvolvedor Full Stack Sênior**

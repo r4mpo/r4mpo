@@ -44,15 +44,15 @@ Atualmente atuando como **Desenvolvedor Full Stack Sênior na Logiks Tecnologia*
 
 ## 💼 Experiência Profissional
 
-### 🏢 Logiks Tecnologia (02/2026 - Atual)
+### 🏢 Fiep - Federação das Indústrias do Estado do Paraná (02/2026 - Atual)
 
 <p align="left">
-  <img src="https://logiks.com.br/wp-content/uploads/2024/02/Logomarca-Logiks-1.png" height="60"/>
+  <img src="https://br.linkedin.com/company/fiep](https://novo.fiepr.org.br/documents/5416920/5437640/img-default-open-graphic-fiep.png/7347a3c7-5276-2e66-33d5-9b8048d973c0?version=3.0&t=1723817705572&imagePreview=1" height="60"/>
 </p>
 
 **Desenvolvedor Full Stack Sênior**
 
-- Sustentação do projeto FIEP – Emprega Indústria
+- Sustentação do projeto Emprega Indústria
 - Refatoração e otimização de código legado
 - Docker + Azure (build e deploy de imagens)
 - Azure DevOps (pipelines e versionamento)

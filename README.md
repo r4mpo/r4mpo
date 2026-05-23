@@ -1,4 +1,4 @@
-<h1 align="center">Erick Isaías de Sousa Agostinho 👨‍💻</h1>
+<h1 align="center">Erick Isaías de Sousa Tomasini 👨‍💻</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack Sênior | Especialista em PHP & Laravel</strong><br>
@@ -82,7 +82,7 @@ Atualmente atuando como **Desenvolvedor Full Stack Sênior na Logiks Tecnologia*
 ### 🏢 ELECTRA Informática (07/2022 - 08/2023)
 
 <p align="left">
-  <img src="https://electra.com.br/wp-content/uploads/2022/01/Logo_Electra-1.png" height="60"/>
+  <img src="https://electra.com.br/assets/img/logo-electra.png" height="60"/>
 </p>
 
 **Programador Trainee & Estagiário**

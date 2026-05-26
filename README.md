@@ -1,4 +1,4 @@
-<h1 align="center">Erick Isaías de Sousa Tomasini 👨‍💻</h1>
+<h1 align="center">Erick Isaías Tomasini 👨‍💻</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack Sênior | Especialista em PHP & Laravel</strong><br>
